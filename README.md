@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Marcelo Martins!
-- 👨‍💻 I’m interested in Back-End Development.
-- 🐍 I’m currently learn Python.
+- 👋 **Hi, I’m Marcelo Martins!**
+- 👨‍💻 **I’m interested in Back-End Development.**
+- 🐍 **I’m currently learn Python.**
 
 <div align="center">
   <a href="https://github.com/2MBG">
