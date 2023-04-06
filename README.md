@@ -1,6 +1,6 @@
-- 👋 **Hi, I’m Marcelo Martins!**
-- 👨‍💻 **I’m interested in Back-End Development.**
-- 🐍 **I’m currently learning Python.**
+- 👋 **Olá, eu sou Marcelo Martins!**
+- 👨‍💻 **Tenho interesse em Desenvolvimento Back-End.**
+- 🐍 **Atualmente estou aprendendo Python.**
 
 ##
 
