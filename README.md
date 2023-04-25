@@ -1,13 +1,13 @@
 - 👋 **Olá, eu sou Marcelo Martins!**
 - 👨‍💻 **Tenho interesse em Desenvolvimento Back-End.**
-- 🐍 **Atualmente estou aprendendo Python.** 215
+- 🐍 **Atualmente estou aprendendo Python.** 215 180
 
 ##
 
 <div align="center">
   <a href="https://github.com/2MBG">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=2MBG&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2MBG&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=2MBG&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2MBG&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
