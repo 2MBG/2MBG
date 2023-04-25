@@ -1,6 +1,6 @@
 - 👋 **Olá, eu sou Marcelo Martins!**
 - 👨‍💻 **Tenho interesse em Desenvolvimento Back-End.**
-- 🐍 **Atualmente estou aprendendo Python.** 215 180
+- 🐍 **Atualmente estou aprendendo Python.**
 
 ##
 
