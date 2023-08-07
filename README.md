@@ -1,5 +1,5 @@
 - 👋 **Olá, eu sou Marcelo Martins!**
-- 👨‍💻 **Tenho interesse em Desenvolvimento Back-End.**
+- 👨‍💻 **Futuro Desenvolvedor Back-End.**
 - 🐍 **Atualmente estou aprendendo Python.**
 
 ##
