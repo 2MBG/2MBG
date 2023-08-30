@@ -1,6 +1,6 @@
 - 👋 **Olá, eu sou Marcelo Martins!**
 - 👨‍💻 **Futuro Desenvolvedor Back-End.**
-- 🐍 **Atualmente estou aprendendo Python.**
+- 🐍 **Atualmente estou aprendendo Python, SQL e Django.**
 
 ##
 
